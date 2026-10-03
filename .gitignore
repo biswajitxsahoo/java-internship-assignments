@@ -1,0 +1,22 @@
+# Byte-code / Compiled files
+*.class
+*.jar
+*.war
+
+# Build directories
+bin/
+out/
+target/
+build/
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
